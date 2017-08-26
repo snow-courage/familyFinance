@@ -1,0 +1,15 @@
+2017-08-25 18:24:24,685 INFO 13171 [egg:logger] init all loggers with options: {"dir":"/Users/hb/Documents/workspace/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-25 18:24:24,759 INFO 13171 [egg-watcher:agent] watcher start success
+2017-08-25 18:30:11,635 INFO 13182 [egg:logger] init all loggers with options: {"dir":"/Users/hb/Documents/workspace/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-25 18:30:11,709 INFO 13182 [egg-watcher:agent] watcher start success
+2017-08-25 18:38:46,183 INFO 13195 [egg:logger] init all loggers with options: {"dir":"/Users/hb/Documents/workspace/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-08-25 18:38:46,254 INFO 13195 [egg-watcher:agent] watcher start success
+2017-08-25 18:46:41,997 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/controller/news.js rename
+2017-08-25 18:47:08,476 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/controller/news.js rename
+2017-08-25 18:47:24,868 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/router.js___jb_old___ rename
+2017-08-25 18:48:39,558 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/service/news.js rename
+2017-08-25 18:49:00,000 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/service/news.js rename
+2017-08-25 18:51:35,867 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/controller/news.js rename
+2017-08-25 18:52:09,220 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/config/config.default.js rename
+2017-08-25 18:54:18,719 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/extend/helper.js rename
+2017-08-25 18:54:28,661 WARN 13195 [agent:development] reload worker because /Users/hb/Documents/workspace/egg-example/app/extend/helper.js___jb_old___ rename

@@ -1,0 +1,60 @@
+2017-08-25 18:24:52,328 ERROR 13172 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/lib/application.js:179:15)
+    at Object.get cookies [as cookies] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/app/extend/context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:77:32)
+    at Object.ensureCsrfSecret (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:88:14)
+    at Object.csrf (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (/Users/hb/Documents/workspace/egg-example/node_modules/koa-compose/index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:65:19)
+    at /Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:54:5
+
+pid: 13172
+hostname: hbdeMacBook-Pro.local
+
+2017-08-25 18:31:06,594 ERROR 13183 [-/127.0.0.1/-/8ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/lib/application.js:179:15)
+    at Object.get cookies [as cookies] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/app/extend/context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:77:32)
+    at Object.ensureCsrfSecret (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:88:14)
+    at Object.csrf (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (/Users/hb/Documents/workspace/egg-example/node_modules/koa-compose/index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:65:19)
+    at /Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:54:5
+
+pid: 13183
+hostname: hbdeMacBook-Pro.local
+
+2017-08-25 18:31:16,073 ERROR 13183 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/lib/application.js:179:15)
+    at Object.get cookies [as cookies] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/app/extend/context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:77:32)
+    at Object.ensureCsrfSecret (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:88:14)
+    at Object.csrf (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (/Users/hb/Documents/workspace/egg-example/node_modules/koa-compose/index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:65:19)
+    at /Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:54:5
+
+pid: 13183
+hostname: hbdeMacBook-Pro.local
+
+2017-08-25 18:31:21,479 ERROR 13183 [-/127.0.0.1/-/1ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/lib/application.js:179:15)
+    at Object.get cookies [as cookies] (/Users/hb/Documents/workspace/egg-example/node_modules/egg/app/extend/context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:77:32)
+    at Object.ensureCsrfSecret (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/app/extend/context.js:88:14)
+    at Object.csrf (/Users/hb/Documents/workspace/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (/Users/hb/Documents/workspace/egg-example/node_modules/koa-compose/index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:65:19)
+    at /Users/hb/Documents/workspace/egg-example/node_modules/co/index.js:54:5
+
+pid: 13183
+hostname: hbdeMacBook-Pro.local
+
